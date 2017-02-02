@@ -1,0 +1,3 @@
+# weird
+
+Truly understanding JS
